@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="benteng_hitam" type="id"/>
+    <item name="peluncur_hitam" type="id"/>
+    <item name="raja_hitam" type="id"/>
+    <item name="ratu_hitam" type="id"/>
+    <item name="kuda_hitam" type="id"/>
+    <item name="prajurit_hitam" type="id"/>
+
+    <item name="benteng_putih" type="id"/>
+    <item name="peluncur_putih" type="id"/>
+    <item name="raja_putih" type="id"/>
+    <item name="ratu_putih" type="id"/>
+    <item name="kuda_putih" type="id"/>
+    <item name="prajurit_putih" type="id"/>
+</resources>
